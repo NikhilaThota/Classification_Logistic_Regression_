@@ -1,0 +1,1 @@
+In this classification problem where heights & weights are compared in men and women, LOgistic Regression in Python is used. Visualizations from seaborn library are used for data exploration. The data is split into train and test data sets. K fold cross validation is implemented using the scikit learn package to retrieve the best regularization parameter and score.
